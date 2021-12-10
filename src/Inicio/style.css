@@ -1,0 +1,45 @@
+
+header{
+    background-color: #ffeae9;
+    border-radius: 100px;
+    height: 275px;
+}
+
+header ul{
+    margin: auto;
+    padding: 0;
+}
+
+header li{
+    display: inline;
+    text-align: center;
+ }
+
+header li a {
+    color: black;
+    font-family: 'Cookie';
+    font-size: 24px;
+}
+
+footer{
+    width: 100%;
+    height: 250px;
+    background-color: #ffeae9;
+    text-align: center;
+    padding: 50px;
+    font-family: 'Cookie';
+    border-radius: 100px;
+}
+
+#carouselExampleDark {
+    padding: 25px;
+    margin: auto;
+    font-size: 24px;
+    font-family: 'Cookie';
+    width: 70%;
+}
+
+.bg-light {
+    padding: 35px;
+    background-color: white;
+}
